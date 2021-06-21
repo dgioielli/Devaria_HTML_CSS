@@ -24,3 +24,11 @@ Aqui vou tentar fazer toda a descrição dos passos realizados durante as aulas.
     1. Apresentação da tag `article`;
     1. Apresentação da tag `p`;
 
+### Aula 2 - HTML:
+
+1. Criação do arquivo FaleConosco.html;
+1. Criação do formulário;
+    * Apresentação das tags de entrada de dados;
+1. 
+
+
